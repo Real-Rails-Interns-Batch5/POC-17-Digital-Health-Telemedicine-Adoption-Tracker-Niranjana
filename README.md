@@ -28,8 +28,10 @@ Ensure you have **Node.js (v18+)** and **Python (v3.10+)** installed locally.
    ```bash
    cd backend
 2.Activate your python virtual environment:
+
     .\venv\Scripts\activate
 3.Boot the FastAPI engine:
+
     python -m uvicorn main:app --reload
     
 ​ Backend endpoint matrix live at: http://127.0.0.1:8000

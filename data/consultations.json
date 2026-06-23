@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "month": "Jan",
+    "region": "Riyadh",
+    "specialty": "Pediatrics",
+    "volume": 4200,
+    "type": "digital",
+    "age_group": "18-34",
+    "gender": "F",
+    "nps": 88
+  },
+  {
+    "id": 2,
+    "month": "Feb",
+    "region": "Jeddah",
+    "specialty": "Dermatology",
+    "volume": 3100,
+    "type": "in-person",
+    "age_group": "35-54",
+    "gender": "M",
+    "nps": 92
+  },
+  {
+    "id": 3,
+    "month": "Mar",
+    "region": "Dammam",
+    "specialty": "General Medicine",
+    "volume": 5600,
+    "type": "digital",
+    "age_group": "55+",
+    "gender": "F",
+    "nps": 85
+  },
+  {
+    "id": 4,
+    "month": "Apr",
+    "region": "Riyadh",
+    "specialty": "Cardiology",
+    "volume": 2900,
+    "type": "in-person",
+    "age_group": "35-54",
+    "gender": "F",
+    "nps": 90
+  }
+]
